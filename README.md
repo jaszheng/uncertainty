@@ -15,3 +15,6 @@ at international spillovers in uncertainty and the different transmission channe
 to impact Gross Domestic Product (GDP) growth. However, the majority of these studies have
 focused on the United States. Bloom (2014), Castelnuovo and Pellegrino (2017) and Bloom (2017)
 provide a summary of the empirical literature.
+
+The following summarises the different streams of research that have looked at the impact of
+uncertainty on the economy.
